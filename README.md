@@ -20,7 +20,7 @@ Internship under Magnes Motors
 <p align="center">
   <img src="./assets/1.serial_monitor.JPG" width="500"/>
    
-</p
+</p>
 
 ## 2. Connect to WiFi AP "Magnes" using an Android Device
 
@@ -29,20 +29,20 @@ Internship under Magnes Motors
 <p align="center">
   <img src="./assets/1.page_1_mobile.JPG" width="500"/>
    
-</p
+</p>
 ## 4. Input Watthours and press 'Submit'
 
 <p align="center">
   <img src="./assets/1.page_2_mobile.JPG" width="500"/>
    
-</p
+</p>
 
 ## 5. Charge is displayed on the webpage
 
 <p align="center">
   <img src="./assets/1.page_3_mobile.JPG" width="500"/>
    
-</p
+</p>
   
 ## 6. Press Back
 
