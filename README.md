@@ -22,6 +22,7 @@ Internship under Magnes Motors
   <img src="./assets/1.page_1_mobile.JPG" width="500"/>
    
 </p>
+
 ## 4. Input Watthours and press 'Submit'
 
 <p align="center">
