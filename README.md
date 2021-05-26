@@ -22,8 +22,6 @@ Internship under Magnes Motors
    
 </p
 
-                                  Output on Serial Monitor
-  
 ## 2. Connect to WiFi AP "Magnes" using an Android Device
 
 ## 3. Go to "http://192.168.4.1" in browser through Android
@@ -32,14 +30,12 @@ Internship under Magnes Motors
   <img src="./assets/1.page_1_mobile.JPG" width="500"/>
    
 </p
-                                   Browser opened on Android
 ## 4. Input Watthours and press 'Submit'
 
 <p align="center">
   <img src="./assets/1.page_2_mobile.JPG" width="500"/>
    
 </p
-                                   Alert after pressing Submit
 
 ## 5. Charge is displayed on the webpage
 
@@ -47,7 +43,6 @@ Internship under Magnes Motors
   <img src="./assets/1.page_3_mobile.JPG" width="500"/>
    
 </p
-                                   Cost displayed
   
 ## 6. Press Back
 
