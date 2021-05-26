@@ -3,14 +3,6 @@ Internship under Magnes Motors
 
 # TABLE OF CONTENTS
 - [HTTP Webserver on Arduino IDE](#http-webserver-on-arduino-ide)
-- [Remotes and Local Repositories](#remote-repositories)
-  - [Local Remotes](#adding-your-local-repository-as-a-remote)
-  - [Fetching from and Pushing to Remotes](#fetching-and-pushing)
-- [Three States of a Git file](#states-of-a-git-file)
-- [Pulling and Pushing](#git-pull-and-git-push)
-- [Undoing commits](#undoing-commits)
-- [Git Branching](#git-branching)
-
 
 
 # HTTP Webserver on Arduino IDE
