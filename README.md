@@ -3,6 +3,8 @@ Internship under Magnes Motors
 
 # TABLE OF CONTENTS
 - [HTTP Webserver on Arduino IDE](#http-webserver-on-arduino-ide)
+- [Schematics]
+    - [Power Management IC with ESP32](#IC-ESP32)
 
 
 # HTTP Webserver on Arduino IDE
@@ -38,4 +40,12 @@ Internship under Magnes Motors
 </p>
   
 ## 6. Press Back
+
+# IC ESP32
+
+<p align="center">
+  <img src="./assets/2.PM_IC_Schematic.JPG" width="500"/>
+   
+</p>
+
 
