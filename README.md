@@ -5,6 +5,7 @@ Internship under Magnes Motors
 - [HTTP Webserver on Arduino IDE](#http-webserver-on-arduino-ide)
 - [Schematics]
     - [Power Management IC with ESP32](#IC-ESP32)
+    - [Current and Voltage Sensor with ESP32](#current-and-voltage-sensor-with-ESP32)
 
 
 # HTTP Webserver on Arduino IDE
@@ -48,4 +49,10 @@ Internship under Magnes Motors
    
 </p>
 
+# Current and Voltage Sensor with ESP32
+
+<p align="center">
+  <img src="./assets/3.Current_Voltage_Schematic.JPG" width="500"/>
+   
+</p>
 
