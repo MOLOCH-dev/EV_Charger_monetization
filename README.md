@@ -56,3 +56,16 @@ Internship under Magnes Motors
    
 </p>
 
+# Flutter App Development
+
+Installation instructions
+
+For Ubuntu 20.04 :
+```
+    sudo apt purge openjdk-11-jre -y
+    sudo apt autoremove
+    java -v
+    sudo apt update
+    sudo apt install openjdk-8-jre
+```
+
