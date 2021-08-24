@@ -16,11 +16,13 @@ Enter your name, required ON time in minutes and current value the power outlet 
 
 ## Circuit Diagrams
 
+![](magnespcb.png)
+
 ![](ckt1.jpeg)
 
 ![](cktpic.jpeg)
 
-**If having any doubs in circuit design
+**If having any doubts in circuit design
 Contact Akshat Bhanushali
 8080252000**
 
@@ -28,9 +30,9 @@ Contact Akshat Bhanushali
 
 1. current sensor needs be included
 2. esp wifi module needs to be used instead of whole esp dev kit
-3. remove 7A relay and include 16A omron reay in pcb design
+3. remove 7A relay and include 16A omron relay in pcb design
 4. include smps so that another socket is not required for adapter
-5. 5.restart the esp by giving commands over wifi
+5. restart the esp by giving commands over wifi
 
 ## Members:
 1. Akshat B.
