@@ -8,7 +8,7 @@
 
 2. Change ssid and password according to your wifi in the code and then upload the code to esp32.
 
-3. Now open the serial monitor in arduino ide, copy the ip address given there and paste it in google chrome tab.<br>
+3. Now open the serial monitor in arduino IDE, copy the ip address given there and paste it in google chrome tab.<br>
 Enter your name, required ON time in minutes and current value the power outlet will have started working in arduino serial monitor, you will get the amount to be paid.<br>
 **NOTE:** if you by mistakely entered a greater value in minutes, in pcb board, press the switch to restard esp, in design board, power off the adapter and on it again to restart esp. you dont need to flash the code again.
 
@@ -34,7 +34,7 @@ Contact Akshat Bhanushali
 2. esp wifi module needs to be used instead of whole esp dev kit
 3. remove 7A relay and include 16A omron relay in pcb design
 4. include smps so that another socket is not required for adapter
-5. avoid restarting the esp by giving commands over wifi by using Real Time capabilites.
+5. try restarting the esp by giving commands over wifi.
 
 ## Members:
 1. Akshat B.
