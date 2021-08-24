@@ -26,13 +26,15 @@ Enter your name, required ON time in minutes and current value the power outlet 
 Contact Akshat Bhanushali
 8080252000**
 
+**Demo videos can be found [here](https://drive.google.com/drive/folders/1dX3jx_bcWb19_J7uATpOkhGvCnvLUn2F)**
+
 ## improvement areas
 
 1. current sensor needs be included
 2. esp wifi module needs to be used instead of whole esp dev kit
 3. remove 7A relay and include 16A omron relay in pcb design
 4. include smps so that another socket is not required for adapter
-5. restart the esp by giving commands over wifi
+5. avoid restarting the esp by giving commands over wifi by using Real Time capabilites.
 
 ## Members:
 1. Akshat B.
